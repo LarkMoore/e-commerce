@@ -10,7 +10,7 @@
     "seed": "node seeds/index.js"
   },
   "keywords": [],
-  "author": "Chanel Mitchell",
+  "author": "Lark Moore",
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.3"
